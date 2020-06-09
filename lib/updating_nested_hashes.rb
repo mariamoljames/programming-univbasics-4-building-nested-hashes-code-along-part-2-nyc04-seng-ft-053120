@@ -25,7 +25,7 @@ def update_status
 end
 
 def add_characters
-   [epic_tragedy][2]=[{name:"Prince Escalus"},{name:"Apothecary"}
+   [epic_tragedy][2]=[{name:"Prince Escalus"},{name:"Apothecary"}]
 end
 
 update_status
