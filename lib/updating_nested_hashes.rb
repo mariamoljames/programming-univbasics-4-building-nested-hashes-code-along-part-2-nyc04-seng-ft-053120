@@ -48,7 +48,3 @@ def add_characters
    epic_tragedy[2]=additional_characters[{name:"Prince Escalus"},{name:"Apothecary"}]
   epic_tragedy
 end
-
-update_status
-add_characters
-epic_tragedy
