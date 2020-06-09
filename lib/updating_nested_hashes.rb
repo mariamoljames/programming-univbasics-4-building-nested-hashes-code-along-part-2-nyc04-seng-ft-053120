@@ -19,8 +19,7 @@ def update_status
       {name: "Nurse", age: "44", attitude: "worried"}
       ]
    }
-}
-
+  }
 epic_tragedy[montague][hero][status]="dead"
 epic_tragedy[capulet][heroine][status]="dead"
 epic_tragedy
