@@ -46,6 +46,6 @@ def add_characters
       }
    }
    [epic_tragedy][2]=[{name:"Prince Escalus"},{name:"Apothecary"}
-end
 
-epic_tragedy
+  epic_tragedy
+end
