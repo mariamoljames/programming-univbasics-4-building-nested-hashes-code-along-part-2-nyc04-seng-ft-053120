@@ -26,6 +26,7 @@ def update_status
 end
 
 def add_characters
+  update_status
   additional_characters=[{name:"Prince Escalus"},{name:"Apothecary"}]
   epic_tragedy<<additional_characters
   epic_tragedy
